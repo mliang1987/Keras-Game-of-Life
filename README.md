@@ -1,7 +1,5 @@
 # Keras-Game-of-Life
  Implementation of Conway's Game of Life with broadcasting.  In addition, created 10x10 Keras model for the game.
-- Shichao (Michael) Liang
-- mliang@gatech.edu
 
 Files Included:
 - conway.py :		Main script for command-line running of the game.
